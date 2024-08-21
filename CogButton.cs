@@ -7,7 +7,6 @@ using UnityEditor;
 public class CogButton : MonoBehaviour
 {
     private bool isActive = false;
-    //private bool isActive2 = false;
     private Button cogButton;
 
     [SerializeField] private Canvas canvas = null;
