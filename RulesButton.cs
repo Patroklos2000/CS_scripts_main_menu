@@ -7,7 +7,6 @@ using UnityEditor;
 
 public class RulesButton : MonoBehaviour
 {
-    // auta kleinoun
     private Button rulesButton;
 
     [SerializeField] private Canvas canvas = null;
