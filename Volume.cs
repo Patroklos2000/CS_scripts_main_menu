@@ -11,7 +11,6 @@ public class Volume : MonoBehaviour
     [SerializeField] private Slider volumeSlider = null;
     [SerializeField] private Text volumeTextUI = null;
     [SerializeField] new private AudioSource audio = null;
-    //[SerializeField] private TextMeshProUGUI volumeTextUI2 = null;
     [SerializeField] private GameObject EventHandle = null;
 
     private void Start()
