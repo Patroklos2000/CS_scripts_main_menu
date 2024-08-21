@@ -22,7 +22,6 @@ public class Volume : MonoBehaviour
     {
  
        volumeTextUI.text = ((int)(volume * 10)).ToString();
-       //volumeTextUI2.text = ((int)(volume * 10)).ToString();
     }
 
 
